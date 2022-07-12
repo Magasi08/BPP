@@ -1,0 +1,12 @@
+site_name: Documentación del código funciones
+
+theme:
+  name: "material"
+
+plugins:
+ - mkdocstrings
+
+nav:
+  - Documentación del código funciones: index.md
+  - referencia.md
+  - explicacion.md
